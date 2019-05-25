@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/000-005/IO_study01/IO_study01.iml" filepath="$PROJECT_DIR$/000-005/IO_study01/IO_study01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006-014/IO_study02/IO_study02.iml" filepath="$PROJECT_DIR$/006-014/IO_study02/IO_study02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/015-027/IO_study03/IO_study03.iml" filepath="$PROJECT_DIR$/015-027/IO_study03/IO_study03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/015-027/IO_study04/IO_study04.iml" filepath="$PROJECT_DIR$/015-027/IO_study04/IO_study04.iml" />
+    </modules>
+  </component>
+</project>
